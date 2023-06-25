@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+> 但行好事，莫问前程
+
 <!--
 **alona789/alona789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
